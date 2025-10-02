@@ -1,0 +1,21 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Start Rob's Chaos Engine
+    init: npm install
+    command: npm run dev
+
+ports:
+  - port: 3000
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - ms-vscode.vscode-typescript-next
+    - esbenp.prettier-vscode
+    - GitHub.copilot
+
+env:
+  ROB_MODE: "chaotic"
+  SLIDE_THEME: "banana-panic"

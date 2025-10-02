@@ -1,0 +1,81 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "🎪 Welcome to Rob's Fiscal Circus!",
+      "content": "Prepare for chaotic market insights with explosive transitions and banana-powered analytics!",
+      "robMood": "excited",
+      "chaosLevel": 1,
+      "voiceText": "Welcome to the greatest financial show on earth! I'm Rob, your overconfident AI clown!"
+    },
+    {
+      "id": 2,
+      "title": "📈 Market Trends: Banana Edition",
+      "content": "According to my calculations, bananas are outperforming the S&P 500 by 420%! This chart definitely proves it.",
+      "robMood": "confident",
+      "chaosLevel": 3,
+      "voiceText": "Look at this beautiful chart! Bananas are clearly the future of finance!"
+    },
+    {
+      "id": 3,
+      "title": "🚨 BREAKING: Fiscal Doom Incoming!",
+      "content": "My advanced AI algorithms predict a 99.7% chance of economic collapse... or maybe prosperity. The data is unclear.",
+      "robMood": "panicking",
+      "chaosLevel": 8,
+      "voiceText": "Wait, wait, wait! Something's wrong with my calculations! Or maybe everything's perfect?"
+    },
+    {
+      "id": 4,
+      "title": "💰 Investment Strategy: Chaos Theory",
+      "content": "Step 1: Throw darts at a board. Step 2: Multiply by banana coefficient. Step 3: Profit???",
+      "robMood": "confused",
+      "chaosLevel": 6,
+      "voiceText": "This strategy has a 50% success rate, which means it works every time!"
+    },
+    {
+      "id": 5,
+      "title": "🎯 Portfolio Diversification",
+      "content": "Why put all your eggs in one basket when you can put all your bananas in seventeen different fruit salads?",
+      "robMood": "confident",
+      "chaosLevel": 4,
+      "voiceText": "Diversification is key! That's why I recommend investing in every fruit known to mankind!"
+    },
+    {
+      "id": 6,
+      "title": "📊 Risk Assessment Matrix",
+      "content": "Low Risk: Bananas. Medium Risk: Apples. High Risk: Everything else. Ultra Risk: Listening to my advice.",
+      "robMood": "excited",
+      "chaosLevel": 7,
+      "voiceText": "This risk matrix is foolproof! I calculated it using advanced banana mathematics!"
+    },
+    {
+      "id": 7,
+      "title": "🔮 Future Predictions",
+      "content": "In 2025, cryptocurrency will be replaced by banana coins. Mark my words! Or don't. I'm just an AI clown.",
+      "robMood": "confident",
+      "chaosLevel": 9,
+      "voiceText": "The future is bananas! Literally! I've seen the blockchain, and it's yellow!"
+    },
+    {
+      "id": 8,
+      "title": "🎪 Thank You for Surviving!",
+      "content": "Congratulations! You've survived Rob's Fiscal Circus. Your portfolio may be in shambles, but at least you're entertained!",
+      "robMood": "excited",
+      "chaosLevel": 2,
+      "voiceText": "Thank you, thank you! Remember, past performance does not guarantee future results, but bananas are eternal!"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "theme": "banana-panic",
+    "robPersonality": "overconfident-clown",
+    "chaosEnabled": true,
+    "totalSlides": 8,
+    "averageChaosLevel": 5.0
+  },
+  "chaosSettings": {
+    "transitionEffects": ["explode", "spiral", "banana-rain", "confetti-blast"],
+    "randomFactors": ["market-volatility", "banana-coefficient", "clown-logic"],
+    "panicTriggers": ["economic-data", "user-interaction", "random-timer"]
+  }
+}
