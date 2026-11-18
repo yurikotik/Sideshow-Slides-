@@ -1,29 +1,35 @@
-# 🎪 Slideshow Rob Chaos Workspace
+# Catch KYC Advisors — Digital Property
 
-Welcome to the fiscal circus—this Ona workspace deploys **Slideshow Rob**, your overconfident AI clown who explains markets using mismatched charts, banana pointers, and explosive transitions.
+**Pensionizer Express × Club Dividend Detective | The Catch 72 & FUIQ Manifesto**
 
-## 🤹 Features
+A polished static flipbook site for Catch KYC Advisors (AHA TOOLS): dark slate + gold, Playfair Display / Plus Jakarta Sans / JetBrains Mono.
 
-- Chaotic Slide Deck Generator
-- Voice Synthesis (TTS)
-- Dialogue Tree Logic
-- Chaos Testing
+## Local
 
-## 🚀 Getting Started
+Open `index.html` via any static server from the repo root:
 
-1. Open this repo in Ona:  
-   [Launch Workspace](https://gitpod.io/#https://github.com/yurikotik/Sideshow-Slides-.git)
-2. Watch Rob spiral through fiscal doom—live.
+```bash
+python3 -m http.server 4173 --bind 127.0.0.1
+```
 
-## 🧪 Use Cases
+Then visit `http://127.0.0.1:4173`.
 
-- Jellypod segments
-- Agentic demos
-- Onboarding flows
-- Financial satire apps
+## Pages
 
-## 🧠 Credits
+1. Cover — brand crest & title
+2. Catch 72 — income compounding thesis
+3. FUIQ Manifesto — Find Undervalued Income Quotient
+4. Pensionizer Express — Top 50 / 10 / 5 indexes
+5. Club Dividend Detective — practitioner community
+6. Game of Yield — advisor toolkit
+7. Catch KYC close — CTAs
 
-Created by Dr. and Yuri  
-Powered by Ona  
-Fueled by confetti
+## Deploy
+
+Static Vercel project. From repo root:
+
+```bash
+npx vercel deploy --yes --prod
+# or, when logged out:
+npx vercel deploy --temporary --yes
+```
